@@ -1,2 +1,0 @@
-# reto
-ola c:
